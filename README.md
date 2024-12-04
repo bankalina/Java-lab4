@@ -1,10 +1,12 @@
-Przykładowe wywołanie Main.java:
+## Przykładowe wywołanie Main.java:
+
 ![obraz](https://github.com/user-attachments/assets/0b2a75ca-7166-4345-8e1f-75ee05fc5d26)
 ![obraz](https://github.com/user-attachments/assets/b818e8ee-ea07-44ed-a518-cf729cf11832)
 ![obraz](https://github.com/user-attachments/assets/dca2f3c4-fcad-45ea-8124-901d633210d5)
 
  
-Wywołanie ShapeDAOTest.java:
+## Wywołanie ShapeDAOTest.java:
+```
 Hibernate: 
     drop table if exists rectangle cascade 
 Hibernate: 
@@ -106,4 +108,6 @@ Hibernate:
     drop table if exists rectangle cascade 
 Hibernate: 
     drop table if exists triangle cascade 
-    
+```
+
+![obraz](https://github.com/user-attachments/assets/2988a929-c289-4791-bd42-80a35bb153ec)
